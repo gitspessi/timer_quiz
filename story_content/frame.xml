@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Timer_Quiz" />
+              <option name="title_text" value="Puchasing in BN Timer_Quiz" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1370,6 +1370,8 @@
           <links>
             <slidelink slideid="_player.6iXcqCIyAqj.6oy02WOFvl9" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6iXcqCIyAqj.5iCXPX1SQBZ" displaytext="Pick One-normal" expand="false" type="slide" />
+            <slidelink slideid="_player.6iXcqCIyAqj.5oZrZGtzYQQ" displaytext="Pick One-normal" expand="false" type="slide" />
+            <slidelink slideid="_player.6iXcqCIyAqj.5nKDmHGaLsd" displaytext="Pick One-normal" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
